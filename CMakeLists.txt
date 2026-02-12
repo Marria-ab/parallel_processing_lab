@@ -1,4 +1,3 @@
-  GNU nano 7.2               CMakeLists.txt
 cmake_minimum_required(VERSION 3.10)
 project(TextLab2)
 
